@@ -13,7 +13,7 @@
 
 **第4章：苦练职场基本功**
 
-&emsp;&emsp;[4.1 修炼工作执行能力]
+&emsp;&emsp;[4.1 修炼工作执行能力](https://github.com/shihailong2023/daydayup/wiki/4.1-%E4%BF%AE%E7%82%BC%E5%B7%A5%E4%BD%9C%E6%89%A7%E8%A1%8C%E8%83%BD%E5%8A%9B)
 
 &emsp;&emsp;[4.2 主动进行工作汇报]
 
@@ -29,15 +29,9 @@
 
 &emsp;&emsp;[5.4 峰终定律：让你轻松的拿到好绩效]
 
-[第6章：如何争取职场中的关键机会]
+[第6章：如何争取职场中的关键机会](https://github.com/shihailong2023/daydayup/wiki/%E7%AC%AC6%E7%AB%A0%EF%BC%9A%E5%A6%82%E4%BD%95%E4%BA%89%E5%8F%96%E8%81%8C%E5%9C%BA%E4%B8%AD%E7%9A%84%E5%85%B3%E9%94%AE%E6%9C%BA%E4%BC%9A)
 
-**第7章：打造职场影响力**
-
-&emsp;&emsp;[7.1 影响力能让你被更多人看见]
-
-&emsp;&emsp;[7.2 如何打造影响力：分享+分享+分享]
-
-&emsp;&emsp;[7.3 如何快速学习一门知识到能分享的水平]
+[第7章：如何打造职场影响力](https://github.com/shihailong2023/daydayup/wiki/%E7%AC%AC7%E7%AB%A0%EF%BC%9A%E6%89%93%E9%80%A0%E8%81%8C%E5%9C%BA%E5%BD%B1%E5%93%8D%E5%8A%9B)
 
 **第8章：常见问题解答**
 
